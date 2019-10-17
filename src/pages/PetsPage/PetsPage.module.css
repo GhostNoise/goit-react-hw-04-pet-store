@@ -1,0 +1,22 @@
+.pets {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title {
+  color: #303030;
+  font-size: 28px;
+  margin-bottom: 2%;
+  padding-left: 20px;
+}
+
+.body {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.body a {
+  text-decoration: none;
+}

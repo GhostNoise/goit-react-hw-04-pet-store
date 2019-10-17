@@ -1,0 +1,29 @@
+.card {
+  width: 270px;
+  height: 270px;
+  margin-bottom: 30px;
+  border: 1px solid #d6d3d3;
+  border-bottom: 2px solid #c4c2c2;
+  background-color: rgba(185, 182, 169, 0.712);
+  border-radius: 5px;
+}
+
+.card:nth-last-child() {
+  margin-bottom: 0;
+}
+.card h3 {
+  text-decoration: none;
+}
+.image {
+  display: block;
+  width: 268px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 20px;
+  color: rgb(241, 76, 35);
+}
